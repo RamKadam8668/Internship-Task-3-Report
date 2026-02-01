@@ -20,7 +20,7 @@ This project focuses on analyzing website traffic logs to understand user behavi
 - **Name**: Website Traffic Analysis
 - **Source**: Kaggle
 - **Link:** https://www.kaggle.com/datasets/bhanupratapbiswas/website-traffic-analysis
-**Dataset Features**:
+- **Dataset Features**:
 - User identifiers
 - Timestamp of events
 - Page events (click, pageview, preview)
