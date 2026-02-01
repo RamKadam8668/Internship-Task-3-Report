@@ -7,13 +7,13 @@ This project focuses on analyzing website traffic logs to understand user behavi
 
 🎯 **Objectives**
 
--Analyze website traffic data to understand user journeys
--Clean and preprocess raw web log data
--Identify total users and sessions
--Calculate key metrics such as bounce rate and average session duration
--Analyze landing pages, exit pages, and navigation paths
--Visualize user behavior and engagement patterns
--Provide actionable business recommendations
+- Analyze website traffic data to understand user journeys
+- Clean and preprocess raw web log data
+- Identify total users and sessions
+- Calculate key metrics such as bounce rate and average session duration
+- Analyze landing pages, exit pages, and navigation paths
+- Visualize user behavior and engagement patterns
+- Provide actionable business recommendations
 
 📂 **Dataset**
 
