@@ -29,11 +29,11 @@ This project focuses on analyzing website traffic logs to understand user behavi
 
 🛠 **Tools & Technologies**
 
--Python
--Pandas
--NumPy
--Matplotlib
--Jupyter Notebook / Google Colab
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook / Google Colab
 
 🔄**Data Preprocessing**
 
